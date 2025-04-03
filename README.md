@@ -7,17 +7,15 @@
 [<img align="left" alt="NeoMosebi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/neo-mosebi-95b206358
+<br/>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+README:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on finishing my Frontend Developer Course on ALX.
+- 🌱 I’m currently learning Frontend Web Development.
+- 👯 I’m looking to collaborate on Software Engineering Website for a clothing brand.
+- 🤔 I’m looking for help with JavaScript.
+- 💬 Ask me about music and food
+- 📫 How to reach me: neosammosebi01@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I do enjoy anime, singing, drawing and most importantly, eating,  i love food.
