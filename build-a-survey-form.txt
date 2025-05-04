@@ -1,0 +1,134 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">We appretiate your feedback to improve our platform</p>
+    <form id="survey-form">
+      <fieldset>
+        <label id="name-label" for="name">Name<br><input type="text" id="name" id="name-label" placeholder="Jane Doe" required/></label>
+        <label id="email-label" for="email">Email<br><input type="email" id="email" id="email-label" placeholder="janedoe123@email.com" required/></label>
+        <label id="age-label" for="age">Age (years)<br><input type="number" id="age" id="age-label" min="18" max="120" placeholder="25" required/></label>
+        <label id="number-label" for="number">Number<br><input type="number" id="number" id="number-label" placeholder="0123456789" min="10" max="12" required/></label>
+      </fieldset>
+      <fieldset>
+      <label for="dropdown">What is your current occupation?
+        <br>
+      <select id="dropdown">
+       <option value="">(Select one)</option>
+       <option value="1">Student</option>
+       <option value="2">Employed</option>
+       <option value="3">Unemployed</option>
+      </select>
+      </fieldset>
+      <fieldset>Would you recommend our services to a friend?
+        <label for="yes"><input type="radio" name="answer-type" id="yes" class="inline" value="yes" checked /> Yes</label>
+        <label for="maybe"><input type="radio" name="answer-type" id="maybe" class="inline" value="maybe" /> Maybe</label>
+        <label for="no"><input type="radio" name="answer-type" id="no" class="inline" value="no" /> No</label>
+      </fieldset>
+      <fieldset>
+      <label for="referrence">How did you hear about us?
+        <br>
+        <select id="referrence">
+          <option value="">(Select one)</option>
+          <option value="1">Friend</option>
+          <option value="2">Search Engine</option>
+          <option value="3">TikTok</option>
+          <option value="4">Facebook</option>
+          <option value="5">YouTube</option>
+          </select>
+        </label>
+      </fieldset>
+      <fieldset>
+       <label>What is your favorite feature on our platform? (Check all that apply)</label>
+       <label><input value="challenges" type="checkbox" name="challenges" class="inline" />Challenges</label>
+       <label><input value="projects" type="checkbox" name="projects" class="inline" />Projects</label>
+       <label><input value="community" type="checkbox" name="community" class="inline" />Community</label>
+       <label><input value="open-source" type="checkbox" name="open-source" class="inline" />Open Source</label>
+        </fieldset>
+      <fieldset>
+        <label for="comment">Please write any comments or suggestions
+          <textarea id="comment" rows="4" cols="40" placeholder="Enter your comment here..."></textarea>
+        </label>
+        </fieldset>
+ <input id="submit" type="submit" value="Submit"/>
+    </form>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: #1b1b32;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+label{
+  display: block;
+  margin: 0.5rem 0;
+}
+h1, p {
+  margin: 1em auto;
+  text-align: center;
+}
+form {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+}
+fieldset {
+  border: none;
+  padding: 2rem 0;
+  border-bottom: 3px solid #3b3b4f;
+}
+fieldset:last-of-type {
+  border-bottom: none;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+input,
+textarea,
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+}
+.inline {
+  width: unset;
+  margin-right: 0.5em;
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+  vertical-align: middle;
+}
+input[type="submit"] {
+  display: block;
+  width: 100%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: white;
+  min-width: 300px;
+}
+.inline{
+  display: inline; 
+}
+
+** end of undefined **
+
