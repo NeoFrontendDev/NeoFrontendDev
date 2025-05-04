@@ -1,6 +1,6 @@
 <h1>Hi, I'm Neo! <br/><a href="https://github.com/NeoFrontendDev">Frontend Web Developer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Frontend-Web Development Projects:</h2>
 <br/>
 <p>- Project 1</p>
 <p>- Project 2</p>
