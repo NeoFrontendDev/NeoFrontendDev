@@ -2,9 +2,18 @@
 
 <h2>👨‍💻 Frontend-Web Development Projects:</h2>
 <br/>
-<p>- Project 1</p>
-<p>- Project 2</p>
-<p>- Project 3</p>
+1. **Travel Guide App**  
+   A travel planner with quiz, weather, and location API integration.  
+   [GitHub Repo](https://github.com/NeoFrontendDev/travel-guide-app) | [Live Demo](https://yourliveurl.com)
+
+2. **GitHub User Search**  
+   A React app to search GitHub profiles using the GitHub API.  
+   [GitHub Repo](https://github.com/NeoFrontendDev/github-user-search) | [Live Demo](https://yourliveurl.com)
+
+3. **Recipe Sharing App**  
+   A recipe manager with state management and routing.  
+   [GitHub Repo](https://github.com/NeoFrontendDev/recipe-sharing-app) | [Live Demo](https://yourliveurl.com)
+
 
 <h2> 🤳 Connect with me:</h2>
 
