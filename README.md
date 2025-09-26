@@ -24,11 +24,11 @@
 
 README:
 
-- 🔭 I’m currently working on finishing my Frontend Developer Course on ALX.
-- 🌱 I’m currently learning Frontend Web Development.
-- 👯 I’m looking to collaborate on Software Engineering Website for a clothing brand.
-- 🤔 I’m looking for help with JavaScript.
-- 💬 Ask me about music and food
+- 🔭 I have finished my Frontend Web Developer Course on ALX.
+- 🌱 I’m currently learning Backend Web Development.
+- 👯 I’m looking to collaborate on Software Engineering Website.
+- 🤔 I’m looking for help with JavaScript and Frameworks.
+- 💬 Ask me about music, food and travel.
 - 📫 How to reach me: neosammosebi01@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I do enjoy anime, singing, drawing and most importantly, eating,  i love food.
