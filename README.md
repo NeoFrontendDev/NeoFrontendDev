@@ -6,9 +6,9 @@
    A travel planner with quiz, weather, and location API integration.  
    [GitHub Repo](https://github.com/NeoFrontendDev/travel-guide-app) | [Live Demo](https://yourliveurl.com)
 
-2. **GitHub User Search**  
-   A React app to search GitHub profiles using the GitHub API.  
-   [GitHub Repo](https://github.com/NeoFrontendDev/github-user-search) | [Live Demo](https://yourliveurl.com)
+2. **Coco Chic Beauty Salon**  
+   A beauty website with HTML, CSS and JavaScript.  
+   [GitHub Repo]( https://github.com/NeoFrontendDev/Coco_Chic_Beauty_Salon.git) | [Live Demo](https://coco-chic-beauty-salon-kixe.vercel.app/)
 
 3. **Recipe Sharing App**  
    A recipe manager with state management and routing.  
